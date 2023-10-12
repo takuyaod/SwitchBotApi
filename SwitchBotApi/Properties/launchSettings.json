@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SwitchBotApi": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 6055F934E25E -c turnOn"
+    }
+  }
+}
